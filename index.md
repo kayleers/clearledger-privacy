@@ -22,4 +22,4 @@ This privacy policy may be updated as the app evolves.
 
 ## Contact
 If you have questions about this privacy policy, please contact:
-support@yourdomain.com
+kayleespivey@gmail.com 
