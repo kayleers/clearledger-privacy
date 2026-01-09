@@ -83,4 +83,4 @@ This privacy policy may be updated from time to time. Any changes will be reflec
 
 If you have questions about this privacy policy or your privacy rights, you may contact us at:
 
-**kayleespivey@gmail.com**
+**khaoskrservices@gmail.com**
