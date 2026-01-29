@@ -1,65 +1,114 @@
+
 Privacy Policy
-Last updated: January 27, 2026
+Last updated: January 29, 2026
 
-ClearLedger ("the app") is a manual financial planning tool designed to give users full control over their financial data and help users track bills, loans, credit cards, bank accounts, and payment schedules across multiple currencies. We are committed to protecting your privacy and being transparent about how your information is handled.
+1
+About ClearLedger
+ClearLedger ("the app") is operated by Khaos (doing business as Khaos KRServices), located in The Netherlands.
 
-How We Store Your Data
-ClearLedger stores your financial data securely in the cloud through Base44's infrastructure. This allows you to:
+ClearLedger is a manual financial planning tool that allows users to track bills, loans, credit cards, bank accounts, and payment schedules across multiple currencies. We are committed to protecting your privacy and being transparent about how your data is handled.
 
-Access your data from any device (phone, tablet, computer) by logging in
-Keep your data synchronized across all your devices
-Ensure your data is backed up and not lost if you lose your device
-All data you enter into the app — including balances, transactions, bills, loans, and payment simulations — is:
+2
+Legal Basis for Processing
+We process personal data in accordance with applicable data protection laws, including the GDPR, based on:
 
-Entered manually by you
-Stored securely in the cloud with encryption
-Private to your account only
-Never shared with third parties
-Not sold or used for advertising
-We do not connect to banks, credit bureaus, or financial institutions to pull your data automatically.
+Contractual necessity: to provide the app's features and services.
+Consent: where required, such as when you create an account and use the app.
+Legitimate interests: to maintain and improve the app's functionality and security.
+3
+Data We Collect
+We collect only the information necessary to provide the service:
 
-Information We Collect
-ClearLedger collects only the information necessary to provide you with the service:
+Information you provide:
 
-Account information (email address for login)
-Financial data you manually enter (balances, transactions, bills, loans)
+Email address (for account creation and authentication)
+Financial data you manually enter (e.g. balances, transactions, bills, loans)
 App preferences and settings
-Information We Do Not Collect
-ClearLedger does not collect:
+Information we do NOT collect:
 
 Physical addresses or government identifiers
 Bank login credentials
-Actual credit card numbers
+Full credit card numbers
 Transaction data from financial institutions
 Contacts, photos, or files
 Location data
 Advertising identifiers
+We do not connect to banks, credit bureaus, or financial institutions.
+
+4
+How We Store and Process Data
+Your data is stored securely in the cloud using Base44, a cloud infrastructure provider that acts as a data processor on our behalf.
+
+Base44 servers are located in the United States.
+Data is encrypted and protected using industry-standard security measures.
+Your data is accessible only through your account and processed only by authorized service providers necessary to operate the app.
+We do not sell your data or share it with third parties for advertising or marketing purposes.
+5
+Third-Party Service Providers
+We use the following service providers to operate the app:
+
+Base44
+
+Cloud hosting and data storage (data processor).
+
+Stripe
+
+Payment processing for subscriptions. Stripe processes payment information. We do not receive or store your full payment card details.
+
+These providers process data only as necessary to deliver their services and in accordance with applicable data protection laws.
+
+6
+International Data Transfers
+Your data may be transferred to and stored on servers located outside your country of residence, including in the United States.
+
+Such transfers are protected by appropriate safeguards, including contractual agreements and standard data protection clauses in accordance with GDPR.
+
+7
 Subscriptions and Payments
-ClearLedger offers optional subscription tiers that unlock additional features. All payments are processed securely through Stripe. ClearLedger does not receive or store your payment information.
+ClearLedger offers optional subscription features. Payments are processed securely through Stripe. ClearLedger does not store full payment card information.
 
-Stripe may collect payment-related information as part of the billing process. Please refer to Stripe's Privacy Policy for details on how Stripe handles this data.
+8
+Data Retention
+We retain your data only for as long as your account is active or as necessary to provide the app's services.
 
+If you delete your account, your data will be permanently deleted from our systems within 30 days, except where retention is required by law.
+
+9
+Your Privacy Rights
+Depending on your location, you may have the following rights:
+
+Access your personal data
+Correct or update your data
+Delete your data
+Export your data in a commonly used format
+Withdraw consent
+Object to certain processing
+You can exercise these rights through the app or by contacting us at: khaoskrservices@gmail.com
+
+If you are located in the European Union, you also have the right to lodge a complaint with your local data protection authority.
+
+10
 Ads and Tracking
-ClearLedger does not display ads and does not use third-party advertising or tracking technologies.
+ClearLedger does not display ads and does not use third-party advertising or tracking technologies. We do not track user behavior across apps or websites.
 
-We do not track user behavior across apps or websites.
+11
+Security
+We use technical and organizational measures to protect your data, including encryption and secure cloud infrastructure. However, no system is completely secure, and we cannot guarantee absolute security.
 
-Data Storage and Security
-Your data is stored on secure cloud servers provided by Base44. We use industry-standard security measures to protect your information.
-
-You can delete your account and all associated data at any time through the app settings.
-
-Financial Disclaimer
-ClearLedger is a planning and organizational tool only. It does not provide financial, legal, or investment advice. Any simulations or projections are estimates based on the information you manually enter.
-
+12
 Children's Privacy
-ClearLedger is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+ClearLedger is not intended for children under the age of 13 (or 16 in the European Union). We do not knowingly collect personal data from children. If you believe a child has provided personal data, please contact us so we can delete it.
 
-Changes to This Privacy Policy
-This privacy policy may be updated from time to time. Any changes will be reflected on this page with an updated revision date.
+13
+Changes to This Policy
+We may update this privacy policy from time to time. Any changes will be reflected on this page with an updated revision date.
 
+14
 Contact
-If you have questions about this privacy policy or your privacy rights, you may contact us at:
+If you have questions about this privacy policy or your data rights, contact us:
 
-khaoskrservices@gmail.com
+Operator: Khaos (Khaos KRServices)
 
+Country: The Netherlands
+
+Email: khaoskrservices@gmail.com
