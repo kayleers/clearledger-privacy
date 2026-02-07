@@ -1,6 +1,6 @@
 Privacy Policy – ClearLedger
 
-Last updated: [Insert Date]
+Last updated: Feb. 7, 2026.
 
 ClearLedger ("the app") is operated by Khaos (doing business as Khaos KRServices), located in The Netherlands.
 
