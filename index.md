@@ -1,114 +1,255 @@
+Privacy Policy – ClearLedger
 
-Privacy Policy
-Last updated: January 29, 2026
+Last updated: [Insert Date]
 
-1
-About ClearLedger
 ClearLedger ("the app") is operated by Khaos (doing business as Khaos KRServices), located in The Netherlands.
 
-ClearLedger is a manual financial planning tool that allows users to track bills, loans, credit cards, bank accounts, and payment schedules across multiple currencies. We are committed to protecting your privacy and being transparent about how your data is handled.
+ClearLedger is a privacy-first, manual financial planning application that allows users to track bills, loans, credit cards, bank accounts, payment schedules, and financial scenarios across multiple currencies. The app does not connect to banks, financial institutions, or third-party financial data providers.
 
-2
-Legal Basis for Processing
-We process personal data in accordance with applicable data protection laws, including the GDPR, based on:
+We are committed to protecting your privacy and being transparent about how your data is collected, used, stored, and processed.
 
-Contractual necessity: to provide the app's features and services.
-Consent: where required, such as when you create an account and use the app.
-Legitimate interests: to maintain and improve the app's functionality and security.
-3
-Data We Collect
-We collect only the information necessary to provide the service:
+1. Legal Basis for Processing
 
+We process personal data in accordance with applicable data protection laws, including the General Data Protection Regulation (GDPR), based on:
+
+Contractual necessity – to provide app functionality and services
+
+User consent – when creating an account and using the app
+
+Legitimate interests – to maintain security, prevent abuse, and improve functionality
+
+Legal obligations – where required by applicable law
+
+2. Data We Collect
 Information you provide:
 
 Email address (for account creation and authentication)
-Financial data you manually enter (e.g. balances, transactions, bills, loans)
+
+Name (if provided)
+
+Financial data manually entered into the app, including:
+
+bills
+
+loans
+
+credit cards
+
+bank accounts
+
+balances
+
+payment schedules
+
+financial planning data
+
 App preferences and settings
-Information we do NOT collect:
 
-Physical addresses or government identifiers
+Information we do not collect:
+
 Bank login credentials
+
 Full credit card numbers
-Transaction data from financial institutions
-Contacts, photos, or files
+
+Financial institution access tokens
+
+Government identifiers
+
+Physical addresses
+
 Location data
+
+Contacts
+
+Photos or files
+
 Advertising identifiers
-We do not connect to banks, credit bureaus, or financial institutions.
 
-4
-How We Store and Process Data
-Your data is stored securely in the cloud using Base44, a cloud infrastructure provider that acts as a data processor on our behalf.
+Device tracking identifiers
 
-Base44 servers are located in the United States.
-Data is encrypted and protected using industry-standard security measures.
-Your data is accessible only through your account and processed only by authorized service providers necessary to operate the app.
-We do not sell your data or share it with third parties for advertising or marketing purposes.
-5
-Third-Party Service Providers
-We use the following service providers to operate the app:
+Behavioral tracking data
+
+Cross-app or cross-site tracking data
+
+ClearLedger does not connect to banks, credit bureaus, payment networks, or financial institutions.
+
+All financial data is manually entered by the user.
+
+3. How We Store and Process Data
+
+Your data is securely stored using Base44 cloud infrastructure, which acts as a data processor on our behalf.
+
+Base44 servers are located in the United States
+
+Data is encrypted in transit and at rest using industry-standard security practices
+
+Access is restricted to authorized systems and services only
+
+Data is processed solely to provide app functionality
+
+We do not sell user data.
+We do not share data for advertising.
+We do not monetize user data.
+We do not profile users for marketing purposes.
+
+4. Third-Party Services
+
+We use the following service providers to operate ClearLedger:
 
 Base44
 
-Cloud hosting and data storage (data processor).
+Cloud hosting and data storage
 
-Stripe
+Infrastructure services
 
-Payment processing for subscriptions. Stripe processes payment information. We do not receive or store your full payment card details.
+Acts as a data processor
 
-These providers process data only as necessary to deliver their services and in accordance with applicable data protection laws.
+Google Play Services
 
-6
-International Data Transfers
-Your data may be transferred to and stored on servers located outside your country of residence, including in the United States.
+App distribution
 
-Such transfers are protected by appropriate safeguards, including contractual agreements and standard data protection clauses in accordance with GDPR.
+Billing and payment processing
 
-7
-Subscriptions and Payments
-ClearLedger offers optional subscription features. Payments are processed securely through Stripe. ClearLedger does not store full payment card information.
+Subscription management
 
-8
-Data Retention
-We retain your data only for as long as your account is active or as necessary to provide the app's services.
+Purchase verification
 
-If you delete your account, your data will be permanently deleted from our systems within 30 days, except where retention is required by law.
+Licensing and entitlement validation
 
-9
-Your Privacy Rights
-Depending on your location, you may have the following rights:
+ClearLedger does not receive or store your full payment card information.
+All payments are processed directly by Google Play Billing.
 
-Access your personal data
-Correct or update your data
+5. Payments and Subscriptions
+
+ClearLedger offers optional paid plans through Google Play Billing, including:
+
+Pro Monthly subscription
+
+Pro Yearly subscription
+
+Lifetime one-time purchase
+
+All payments, subscriptions, refunds, and billing data are processed by Google Play.
+ClearLedger does not store payment card information.
+
+ClearLedger only receives:
+
+purchase confirmation
+
+entitlement status
+
+subscription state
+
+access rights
+
+6. Account System and Google Play Separation
+
+Your ClearLedger app account is separate from your Google Play account.
+
+App login credentials are independent of Google Play
+
+Changing your email/password in the app does not affect Google Play
+
+Google Play billing identity is managed solely by Google
+
+Subscription access is determined by Google Play purchase status
+
+7. International Data Transfers
+
+Your data may be transferred to and stored on servers outside your country of residence, including in the United States.
+
+Such transfers are protected by appropriate safeguards in accordance with GDPR, including contractual data protection agreements and standard contractual clauses.
+
+8. Data Retention
+
+We retain your data only as long as your account remains active or as necessary to provide services.
+
+When you delete your account:
+
+Your user profile is deleted
+
+Your financial data is deleted
+
+Your stored records are deleted
+
+Your app data is permanently removed
+
+Data deletion occurs within 30 days, unless legal retention obligations apply.
+
+9. Your Privacy Rights
+
+Depending on your jurisdiction, you may have the right to:
+
+Access your data
+
+Correct your data
+
 Delete your data
-Export your data in a commonly used format
+
+Export your data
+
 Withdraw consent
-Object to certain processing
-You can exercise these rights through the app or by contacting us at: khaoskrservices@gmail.com
 
-If you are located in the European Union, you also have the right to lodge a complaint with your local data protection authority.
+Restrict processing
 
-10
-Ads and Tracking
-ClearLedger does not display ads and does not use third-party advertising or tracking technologies. We do not track user behavior across apps or websites.
+Object to processing
 
-11
-Security
-We use technical and organizational measures to protect your data, including encryption and secure cloud infrastructure. However, no system is completely secure, and we cannot guarantee absolute security.
+Data portability
 
-12
-Children's Privacy
-ClearLedger is not intended for children under the age of 13 (or 16 in the European Union). We do not knowingly collect personal data from children. If you believe a child has provided personal data, please contact us so we can delete it.
+You may exercise these rights within the app or by contacting:
 
-13
-Changes to This Policy
-We may update this privacy policy from time to time. Any changes will be reflected on this page with an updated revision date.
+khaoskrservices@gmail.com
 
-14
-Contact
-If you have questions about this privacy policy or your data rights, contact us:
+If you are located in the EU, you may also file a complaint with your local data protection authority.
 
-Operator: Khaos (Khaos KRServices)
+10. Ads and Tracking
 
+ClearLedger:
+
+Does not display ads
+
+Does not use advertising SDKs
+
+Does not track users across apps or websites
+
+Does not use behavioral tracking
+
+Does not use third-party analytics for profiling
+
+Does not sell or monetize user data
+
+11. Security
+
+We implement appropriate technical and organizational security measures, including:
+
+Encryption
+
+Secure cloud infrastructure
+
+Access controls
+
+Authentication safeguards
+
+Secure session handling
+
+While we take strong precautions, no system can guarantee absolute security.
+
+12. Children’s Privacy
+
+ClearLedger is not intended for children under:
+
+13 years old (globally)
+
+16 years old (European Union)
+
+We do not knowingly collect data from children. If we become aware of such data, it will be deleted promptly.
+
+13. Changes to This Policy
+
+This privacy policy may be updated periodically. Updates will be reflected with a revised date.
+
+14. Contact Information
+
+Operator: Khaos (doing business as Khaos KRServices)
 Country: The Netherlands
-
-Email: khaoskrservices@gmail.com
+Support Email: khaoskrservices@gmail.com
